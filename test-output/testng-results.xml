@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-10T20:13:34Z" name="Default suite" finished-at="2019-01-10T20:13:34Z" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2019-01-10T20:13:34Z" name="Default test" finished-at="2019-01-10T20:13:34Z" duration-ms="86">
+      <class name="com.maven.Maven_Practice.FirstTest">
+        <test-method signature="firstmethod()[pri:0, instance:com.maven.Maven_Practice.FirstTest@2925bf5b]" started-at="2019-01-10T20:13:34Z" name="firstmethod" finished-at="2019-01-10T20:13:34Z" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstmethod -->
+      </class> <!-- com.maven.Maven_Practice.FirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
